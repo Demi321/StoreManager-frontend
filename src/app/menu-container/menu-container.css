@@ -6,4 +6,5 @@
     background-color: var(--main-blue);
     display: flex;
     flex-direction: column; 
+    color:  white;
 }

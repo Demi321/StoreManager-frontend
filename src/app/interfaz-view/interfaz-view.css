@@ -1,0 +1,6 @@
+.generalContainer{
+    display: grid; 
+    grid-template-columns: 15% 1fr;
+    border: 1px solid red;
+    color: black;
+}

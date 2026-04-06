@@ -5,7 +5,7 @@ import { Frame } from "./frame/frame";
 
 @Component({
   selector: 'app-root',
-  imports: [MenuContainer, RouterOutlet, Frame],
+  imports: [ RouterOutlet, Frame],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
